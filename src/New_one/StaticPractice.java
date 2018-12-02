@@ -12,4 +12,6 @@ public class StaticPractice {
 
         System.out.println("inside static");
     }
+
+
 }
