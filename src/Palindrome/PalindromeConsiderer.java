@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * @author Aleksandr Beryozkin
+ *
+ * This prog is checking whether a user input is a palindrome
  */
 
 public class PalindromeConsiderer {
